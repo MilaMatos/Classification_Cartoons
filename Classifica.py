@@ -138,12 +138,16 @@ def classificar_imagem(imagem_path):
 
     # Mapeie o índice da classe prevista para o nome da classe
     #nome_classe_prevista = image_labels[classe_prevista[0]]
+    
+    for i in range(len(labels)):
+        print(i,': ', labels[i])
+        
     nome_classe_prevista = labels[classe_prevista]
 
     return nome_classe_prevista
 
 # Insira o caminho da imagem que você deseja classificar
-imagem_path = os.path.join(script_dir, 'teste_ML_2.jpg')
+imagem_path = os.path.join(script_dir, 'teste_ML.jpg')
 
 # Classifique a imagem
 classe_prevista = classificar_imagem(imagem_path)

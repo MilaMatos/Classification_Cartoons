@@ -7,8 +7,8 @@
 - *Desenho (Quantidade de imagens)*
 
 1. Bungo Stray Dogs **(100)**
-2. Coragem, o cão covarde
-3. Death Note
+2. Coragem, o cão covarde **(100)**
+3. Death Note **(100)**
 4. Dragon Ball Z
 5. Futurama **(100)**
 6. Hora de Aventura **(100)**
