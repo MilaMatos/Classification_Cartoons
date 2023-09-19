@@ -13,12 +13,11 @@
 5. Futurama **(100)**
 6. Hora de Aventura **(100)**
 7. Neon Genesis Evangelion
-8. Os flinstones
-9. Os padrinhos mágicos
-10. Pica-Pau **(27)**
-11. Popeye
-12. Rick e Morty
-13. South Park **(32)**
-14. Tom e Jerry
-15. Given
+8. Os padrinhos mágicos
+9. Pica-Pau **(27)**
+10. Popeye **(19)**
+11. Rick e Morty
+12. South Park **(32)**
+13. Tom e Jerry **(44)**
+14. Given
 
