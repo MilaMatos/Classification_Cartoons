@@ -147,7 +147,7 @@ def classificar_imagem(imagem_path):
     return nome_classe_prevista
 
 # Insira o caminho da imagem que você deseja classificar
-imagem_path = os.path.join(script_dir, 'teste_ML.jpg')
+imagem_path = os.path.join(script_dir, 'teste_ML_4.jpg')
 
 # Classifique a imagem
 classe_prevista = classificar_imagem(imagem_path)

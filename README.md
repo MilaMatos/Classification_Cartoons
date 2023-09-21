@@ -16,7 +16,7 @@
 8. Os padrinhos mágicos
 9. Pica-Pau **(27)**
 10. Popeye **(19)**
-11. Rick e Morty
+11. Rick e Morty **(72)**
 12. South Park **(32)**
 13. Tom e Jerry **(44)**
 14. Given
