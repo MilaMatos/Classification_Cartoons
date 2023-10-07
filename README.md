@@ -1,23 +1,19 @@
 # Classification Cartoons
 
-**Desenhos e animes na base de dados:**
+### O objetivo do algoritmo é informar qual o desenho mais provável de ser com base no dataset disponível
 
-> [Link para a base de dados](https://drive.google.com/drive/folders/1fBn5__FSiK8850I_Qhl-xwgxdXc-twnT?usp=sharing)
+-> Atualmente na saída da classificação da imagem é dado as 3 maiores probabilidades de qualquer desenho animado ser a da imagem dada, além de dar as probabilidades dentro de cada classe de desenho.
 
-- *Desenho (Quantidade de imagens)*
+- Estão sendo usados 800 imagens de cada desenho abaixo:
 
-1. Bungo Stray Dogs **(100)**
-2. Coragem, o cão covarde **(100)**
-3. Death Note **(100)**
-4. Dragon Ball Z
-5. Futurama **(100)**
-6. Hora de Aventura **(100)**
-7. Neon Genesis Evangelion
-8. Os padrinhos mágicos
-9. Pica-Pau **(27)**
-10. Popeye **(19)**
-11. Rick e Morty **(72)**
-12. South Park **(32)**
-13. Tom e Jerry **(44)**
-14. Given
+1. Apenas_Um_Show
+2. Bob_Esponja
+3. Bungo_Stray_Dogs
+4. Kick_Buttowski
+5. Looney_Tunes
+6. Madeline
+7. Padrinhos_Magicos
+8. Pica_Pau
 
+
+* Para validação está sendo feito um K-fold com 5 folds e sendo rodado em 5 épocas. Sendo gravado também a acurácia de treino e validação para cada época e fold e a matriz de confusão e precisão de cada classe para cada fold feito.
