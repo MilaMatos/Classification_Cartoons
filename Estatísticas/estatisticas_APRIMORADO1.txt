@@ -1,0 +1,223 @@
+Tempo total: 352m 3.6s
+
+Found 5132 validated image filenames belonging to 8 classes.
+Found 1283 validated image filenames belonging to 8 classes.
+e:\anaconda3\lib\site-packages\keras\src\preprocessing\image.py:1137: UserWarning: Found 1 invalid image filename(s) in x_col="filename". These filename(s) will be ignored.
+  warnings.warn(
+Epoch 1/5
+161/161 [==============================] - 832s 5s/step - loss: 2.0180 - accuracy: 0.2658 - val_loss: 1.8929 - val_accuracy: 0.3655
+Epoch 2/5
+161/161 [==============================] - 795s 5s/step - loss: 1.1426 - accuracy: 0.5941 - val_loss: 0.7722 - val_accuracy: 0.7334
+Epoch 3/5
+161/161 [==============================] - 767s 5s/step - loss: 0.6607 - accuracy: 0.7847 - val_loss: 0.6240 - val_accuracy: 0.7981
+Epoch 4/5
+161/161 [==============================] - 794s 5s/step - loss: 0.4400 - accuracy: 0.8648 - val_loss: 0.4088 - val_accuracy: 0.8691
+Epoch 5/5
+161/161 [==============================] - 791s 5s/step - loss: 0.3029 - accuracy: 0.9078 - val_loss: 0.5651 - val_accuracy: 0.8410
+41/41 [==============================] - 53s 1s/step
+Found 5132 validated image filenames belonging to 8 classes.
+e:\anaconda3\lib\site-packages\keras\src\preprocessing\image.py:1137: UserWarning: Found 1 invalid image filename(s) in x_col="filename". These filename(s) will be ignored.
+  warnings.warn(
+Found 1283 validated image filenames belonging to 8 classes.
+Epoch 1/5
+161/161 [==============================] - 909s 6s/step - loss: 2.1059 - accuracy: 0.2966 - val_loss: 1.6138 - val_accuracy: 0.4497
+Epoch 2/5
+161/161 [==============================] - 811s 5s/step - loss: 1.0113 - accuracy: 0.6413 - val_loss: 0.7624 - val_accuracy: 0.7101
+Epoch 3/5
+161/161 [==============================] - 806s 5s/step - loss: 0.6694 - accuracy: 0.7765 - val_loss: 0.6207 - val_accuracy: 0.8012
+Epoch 4/5
+161/161 [==============================] - 807s 5s/step - loss: 0.4452 - accuracy: 0.8552 - val_loss: 0.4698 - val_accuracy: 0.8441
+Epoch 5/5
+161/161 [==============================] - 782s 5s/step - loss: 0.3271 - accuracy: 0.8961 - val_loss: 0.5466 - val_accuracy: 0.8472
+41/41 [==============================] - 52s 1s/step
+Found 5132 validated image filenames belonging to 8 classes.
+e:\anaconda3\lib\site-packages\keras\src\preprocessing\image.py:1137: UserWarning: Found 1 invalid image filename(s) in x_col="filename". These filename(s) will be ignored.
+  warnings.warn(
+Found 1283 validated image filenames belonging to 8 classes.
+Epoch 1/5
+161/161 [==============================] - 904s 6s/step - loss: 2.3036 - accuracy: 0.2208 - val_loss: 1.5496 - val_accuracy: 0.4217
+Epoch 2/5
+161/161 [==============================] - 774s 5s/step - loss: 1.1533 - accuracy: 0.5859 - val_loss: 0.6803 - val_accuracy: 0.7810
+Epoch 3/5
+161/161 [==============================] - 815s 5s/step - loss: 0.7227 - accuracy: 0.7500 - val_loss: 0.5938 - val_accuracy: 0.8207
+Epoch 4/5
+161/161 [==============================] - 789s 5s/step - loss: 0.4848 - accuracy: 0.8410 - val_loss: 0.5922 - val_accuracy: 0.8168
+Epoch 5/5
+161/161 [==============================] - 825s 5s/step - loss: 0.3125 - accuracy: 0.9063 - val_loss: 0.5891 - val_accuracy: 0.8410
+41/41 [==============================] - 49s 1s/step
+Found 5132 validated image filenames belonging to 8 classes.
+e:\anaconda3\lib\site-packages\keras\src\preprocessing\image.py:1137: UserWarning: Found 1 invalid image filename(s) in x_col="filename". These filename(s) will be ignored.
+  warnings.warn(
+Found 1283 validated image filenames belonging to 8 classes.
+Epoch 1/5
+161/161 [==============================] - 802s 5s/step - loss: 2.0665 - accuracy: 0.2747 - val_loss: 1.2230 - val_accuracy: 0.5830
+Epoch 2/5
+161/161 [==============================] - 822s 5s/step - loss: 1.0268 - accuracy: 0.6407 - val_loss: 0.8154 - val_accuracy: 0.7108
+Epoch 3/5
+161/161 [==============================] - 789s 5s/step - loss: 0.6524 - accuracy: 0.7870 - val_loss: 0.6421 - val_accuracy: 0.7779
+Epoch 4/5
+161/161 [==============================] - 795s 5s/step - loss: 0.4493 - accuracy: 0.8572 - val_loss: 0.5112 - val_accuracy: 0.8472
+Epoch 5/5
+161/161 [==============================] - 864s 5s/step - loss: 0.2936 - accuracy: 0.9098 - val_loss: 0.8888 - val_accuracy: 0.7654
+41/41 [==============================] - 51s 1s/step
+Found 5132 validated image filenames belonging to 8 classes.
+e:\anaconda3\lib\site-packages\keras\src\preprocessing\image.py:1137: UserWarning: Found 1 invalid image filename(s) in x_col="filename". These filename(s) will be ignored.
+  warnings.warn(
+Found 1283 validated image filenames belonging to 8 classes.
+Epoch 1/5
+161/161 [==============================] - 819s 5s/step - loss: 1.9487 - accuracy: 0.2876 - val_loss: 1.4011 - val_accuracy: 0.4256
+Epoch 2/5
+161/161 [==============================] - 812s 5s/step - loss: 1.1210 - accuracy: 0.5978 - val_loss: 0.7319 - val_accuracy: 0.7405
+Epoch 3/5
+161/161 [==============================] - 809s 5s/step - loss: 0.7126 - accuracy: 0.7627 - val_loss: 0.5527 - val_accuracy: 0.8122
+Epoch 4/5
+161/161 [==============================] - 826s 5s/step - loss: 0.4673 - accuracy: 0.8505 - val_loss: 0.4975 - val_accuracy: 0.8480
+Epoch 5/5
+161/161 [==============================] - 808s 5s/step - loss: 0.3231 - accuracy: 0.9053 - val_loss: 0.5743 - val_accuracy: 0.8301
+41/41 [==============================] - 54s 1s/step
+
+
+
+Fold 1:
+Loss: [2.0179662704467773, 1.1426146030426025, 0.6607440114021301, 0.44003161787986755, 0.3029109835624695]
+Accuracy: [0.26578330993652344, 0.5941153764724731, 0.7846843600273132, 0.8647700548171997, 0.9078332185745239]
+Validation Loss: [1.8928534984588623, 0.7722271084785461, 0.6240321397781372, 0.40884146094322205, 0.5651350617408752]
+Validation Accuracy: [0.3655495047569275, 0.7334372401237488, 0.7981293797492981, 0.8690568804740906, 0.8409976363182068]
+Matriz de Confusão:
+[[130   0   3  36   2   7   1   5]
+ [  0 157   0   0   0   0   0   0]
+ [  7   1 135   4   2   2   0   4]
+ [  1   0   4 138   4   2   0  12]
+ [  1   1   3   6  91  22   1  29]
+ [  2   1   1   4   1 126   0  10]
+ [  0   0   0   2   0   0 154   0]
+ [  0   0   1   5   8   9   0 148]]
+
+Precisão por Classe:
+Classe 'Apenas_Um_Show': Precisão = '0.9220'
+Classe 'Bob_Esponja': Precisão = '0.9812'
+Classe 'Bungo_Stray_Dogs': Precisão = '0.9184'
+Classe 'Kick_Buttowski': Precisão = '0.7077'
+Classe 'Looney_Tunes': Precisão = '0.8426'
+Classe 'Madeline': Precisão = '0.7500'
+Classe 'Padrinhos_Magicos': Precisão = '0.9872'
+Classe 'Pica_Pau': Precisão = '0.7115'
+Fold 2:
+Loss: [2.105872869491577, 1.011312484741211, 0.6693610548973083, 0.44521084427833557, 0.32709118723869324]
+Accuracy: [0.2965705394744873, 0.6412704586982727, 0.776500403881073, 0.8552221059799194, 0.8961418271064758]
+Validation Loss: [1.6138439178466797, 0.7623949646949768, 0.6207379102706909, 0.469768226146698, 0.5465508103370667]
+Validation Accuracy: [0.44972720742225647, 0.7100545763969421, 0.8012470602989197, 0.8441153764724731, 0.8472330570220947]
+Matriz de Confusão:
+[[151   0   9  11   3   1   1   0]
+ [  0 158   0   1   0   0   0   1]
+ [  5   0 130   3   2   1   0   2]
+ [ 15   0   2 148   2   0   0   0]
+ [  7   0   6  11 140   1   0   5]
+ [  4   1   5   8  14 105   1  20]
+ [  0   0   0   1   0   0 162   0]
+ [  5   0   4  23  19   2   0  93]]
+
+Precisão por Classe:
+Classe 'Apenas_Um_Show': Precisão = '0.8075'
+Classe 'Bob_Esponja': Precisão = '0.9937'
+Classe 'Bungo_Stray_Dogs': Precisão = '0.8333'
+Classe 'Kick_Buttowski': Precisão = '0.7184'
+Classe 'Looney_Tunes': Precisão = '0.7778'
+Classe 'Madeline': Precisão = '0.9545'
+Classe 'Padrinhos_Magicos': Precisão = '0.9878'
+Classe 'Pica_Pau': Precisão = '0.7686'
+Fold 3:
+Loss: [2.3036251068115234, 1.153287649154663, 0.7226850986480713, 0.48476818203926086, 0.31254082918167114]
+Accuracy: [0.22077162563800812, 0.5859314203262329, 0.75, 0.8409976363182068, 0.9062743782997131]
+Validation Loss: [1.5496180057525635, 0.6802895665168762, 0.5938201546669006, 0.5921844840049744, 0.5890859961509705]
+Validation Accuracy: [0.4216679632663727, 0.7809820771217346, 0.8207326531410217, 0.8168355226516724, 0.8409976363182068]
+Matriz de Confusão:
+[[104   0   1   9   3  10   1   6]
+ [  0 168   0   1   2   0   0   0]
+ [  3   0 147   7   3  10   0   4]
+ [  6   0   2 119   5  11   1   4]
+ [  6   0   1  16 113   7   1   7]
+ [  4   2   3   3   3 153   0   5]
+ [  0   0   0   0   0   0 169   0]
+ [  2   0   2  15   8  29   1 106]]
+
+Precisão por Classe:
+Classe 'Apenas_Um_Show': Precisão = '0.8320'
+Classe 'Bob_Esponja': Precisão = '0.9882'
+Classe 'Bungo_Stray_Dogs': Precisão = '0.9423'
+Classe 'Kick_Buttowski': Precisão = '0.7000'
+Classe 'Looney_Tunes': Precisão = '0.8248'
+Classe 'Madeline': Precisão = '0.6955'
+Classe 'Padrinhos_Magicos': Precisão = '0.9769'
+Classe 'Pica_Pau': Precisão = '0.8030'
+Fold 4:
+Loss: [2.0664889812469482, 1.026822805404663, 0.6524258255958557, 0.44934722781181335, 0.2935749590396881]
+Accuracy: [0.27474668622016907, 0.6406859159469604, 0.787022590637207, 0.8571707010269165, 0.9097817540168762]
+Validation Loss: [1.2229595184326172, 0.8153553605079651, 0.6421484351158142, 0.511181116104126, 0.8888423442840576]
+Validation Accuracy: [0.5830085873603821, 0.7108339667320251, 0.777864396572113, 0.8472330570220947, 0.7653936147689819]
+Matriz de Confusão:
+[[130   0  15   0   1  19   0   2]
+ [  1 164   0   0   0   2   0   0]
+ [  8   0 143   1   0   9   0   1]
+ [ 18   0  35  79   0  19   0   0]
+ [ 16   0  15  11  75  39   1   7]
+ [  2   0   5   3   0 156   0   2]
+ [  1   0   0   0   0   1 151   0]
+ [  6   0  14  10   5  31   1  84]]
+
+Precisão por Classe:
+Classe 'Apenas_Um_Show': Precisão = '0.7143'
+Classe 'Bob_Esponja': Precisão = '1.0000'
+Classe 'Bungo_Stray_Dogs': Precisão = '0.6300'
+Classe 'Kick_Buttowski': Precisão = '0.7596'
+Classe 'Looney_Tunes': Precisão = '0.9259'
+Classe 'Madeline': Precisão = '0.5652'
+Classe 'Padrinhos_Magicos': Precisão = '0.9869'
+Classe 'Pica_Pau': Precisão = '0.8750'
+Fold 5:
+Loss: [1.9487203359603882, 1.1210331916809082, 0.7126268744468689, 0.46728038787841797, 0.3230876326560974]
+Accuracy: [0.2876071631908417, 0.597817599773407, 0.7626656293869019, 0.8505455851554871, 0.9053000807762146]
+Validation Loss: [1.4010541439056396, 0.7319292426109314, 0.5527384877204895, 0.497539758682251, 0.5742864608764648]
+Validation Accuracy: [0.42556509375572205, 0.7404520511627197, 0.81215900182724, 0.8480124473571777, 0.8300857543945312]
+Matriz de Confusão:
+[[ 99   0   2  17  16   5   0   0]
+ [  0 144   0   0   0   0   0   0]
+ [  1   0 148  10   3   2   1   1]
+ [  1   0   2 144  20   6   0   0]
+ [  3   0   3   3 142   9   0   1]
+ [  1   1   3   4   8 145   0   0]
+ [  0   0   0   0   0   2 167   0]
+ [  3   1   1  17  54  15   2  76]]
+
+Precisão por Classe:
+Classe 'Apenas_Um_Show': Precisão = '0.9167'
+Classe 'Bob_Esponja': Precisão = '0.9863'
+Classe 'Bungo_Stray_Dogs': Precisão = '0.9308'
+Classe 'Kick_Buttowski': Precisão = '0.7385'
+Classe 'Looney_Tunes': Precisão = '0.5844'
+Classe 'Madeline': Precisão = '0.7880'
+Classe 'Padrinhos_Magicos': Precisão = '0.9824'
+Classe 'Pica_Pau': Precisão = '0.9744'
+
+Acurácia Média entre os 5 folds: 0.9051
+Acurácia de Validação Média entre os 5 folds: 0.8249
+
+Matriz de Confusão Geral (Somatório das Matrizes dos Folds):
+[[614   0  30  73  25  42   3  13]
+ [  1 791   0   2   2   2   0   1]
+ [ 24   1 703  25  10  24   1  12]
+ [ 41   0  45 628  31  38   1  16]
+ [ 33   1  28  47 561  78   3  49]
+ [ 13   5  17  22  26 685   1  37]
+ [  1   0   0   3   0   3 803   0]
+ [ 16   1  22  70  94  86   4 507]]
+
+Precisão Média por Classe:
+Classe 'Apenas_Um_Show': Precisão Média = '0.8385'
+Classe 'Bob_Esponja': Precisão Média = '0.9899'
+Classe 'Bungo_Stray_Dogs': Precisão Média = '0.8510'
+Classe 'Kick_Buttowski': Precisão Média = '0.7248'
+Classe 'Looney_Tunes': Precisão Média = '0.7911'
+Classe 'Madeline': Precisão Média = '0.7507'
+Classe 'Padrinhos_Magicos': Precisão Média = '0.9842'
+Classe 'Pica_Pau': Precisão Média = '0.8265' 
