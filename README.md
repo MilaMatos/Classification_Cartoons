@@ -27,6 +27,8 @@ Antes de executar o código, certifique-se de ter instalado as seguintes bibliot
 - Numpy
 - Os
 - Pandas 
+- Spicy
+- Random
 
 **Como Utilizar:**
 
